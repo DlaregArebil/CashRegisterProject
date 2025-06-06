@@ -1,0 +1,30 @@
+=====================================================
+                   Order Receipt                     
+=====================================================
+10 x Grilled Ham and Three Cheese on Sourdough Bread - P125.0
+6 x SPAM Classic, Egg & Cheese on Potato Bread - P160.0
+8 x Honey Nougat Oatmilk Macchiato - P150.0
+-----------------------------------------------------
+Your total: 3410
+Received: 3420.0
+Your change: 10.0
+-----------------------------------------------------
+          Thank you for ordering at Starbs!          
+                 06-06-2025 20:20:19 
+                       Libera06     
+ =======================================================
+=====================================================
+                   Order Receipt                     
+=====================================================
+5 x Chocolate Chip Crunch Cheesecake - P150.0
+2 x Roasted Ham, Egg, & Cheese on Croissant Bun - P140.0
+3 x Strawberry Mochi Pure Matcha Latte - P125.0
+-----------------------------------------------------
+Your total: 1405
+Received: 1470.0
+Your change: 65.0
+-----------------------------------------------------
+          Thank you for ordering at Starbs!          
+                 06-06-2025 20:20:19 
+                       Gerald     
+ =======================================================
