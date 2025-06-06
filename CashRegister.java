@@ -75,7 +75,6 @@ public class CashRegister {
         return true;
     }
 
-
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         ArrayList<String> username= new ArrayList<>();
@@ -126,7 +125,6 @@ public class CashRegister {
             } while (!isValidUn);
             System.out.println("Username Accepted\n");
                     
-    
             do {
                 System.out.println("Create a PASSWORD (Password MUST contain at least one UPPERCASE letter, one NUMBER, one SPECIAL CHARACTER, and be 8-20 characters long)");
                 System.out.print("Create your password: ");
@@ -140,9 +138,7 @@ public class CashRegister {
                     password.add(pword);
                 }
             } while (!isValidPw);
-            
-               
-            
+                   
             //login
             clearScreen();
             System.out.println("Password Accepted\n"); 
@@ -168,7 +164,6 @@ public class CashRegister {
                 }
             } while (!isLoginSuccess);
             System.out.println("Login Successfull");
-    
     
             //menu
             clearScreen();
@@ -358,7 +353,6 @@ public class CashRegister {
                         }
                         System.out.println("Your total: P" + total);
                 
-    
                         System.out.print("Input your payment: P");
                         Double payment = sc.nextDouble();
                     
@@ -411,7 +405,6 @@ public class CashRegister {
                             e.printStackTrace();
                         }
                         
-
                 getReceipt(file);
                 
                 System.out.println();
