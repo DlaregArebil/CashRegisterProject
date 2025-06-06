@@ -1,0 +1,2 @@
+Welcome to Starbs — Your Virtual Café Experience ☕🍰
+This Java program brings the cozy café vibe to your screen. As a customer, you can sign up, log in, and explore a menu of delicious foods and drinks. Pick what you’re craving, review or tweak your order, and then check out with a smooth payment process. You will even get a neat receipt at the end, just like in a real café. Whether you're in the mood for a grilled sandwich or a green tea frappé, Starbs has your digital order covered!
